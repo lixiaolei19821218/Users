@@ -1,0 +1,11 @@
+C:\Users\arthur.li\Source\repos\Users\Users\bin\Debug\netcoreapp2.0\Users.deps.json
+C:\Users\arthur.li\Source\repos\Users\Users\bin\Debug\netcoreapp2.0\Users.runtimeconfig.json
+C:\Users\arthur.li\Source\repos\Users\Users\bin\Debug\netcoreapp2.0\Users.runtimeconfig.dev.json
+C:\Users\arthur.li\Source\repos\Users\Users\bin\Debug\netcoreapp2.0\Users.dll
+C:\Users\arthur.li\Source\repos\Users\Users\bin\Debug\netcoreapp2.0\Users.pdb
+C:\Users\arthur.li\Source\repos\Users\Users\obj\Debug\netcoreapp2.0\Users.csprojAssemblyReference.cache
+C:\Users\arthur.li\Source\repos\Users\Users\obj\Debug\netcoreapp2.0\Users.csproj.CoreCompileInputs.cache
+C:\Users\arthur.li\Source\repos\Users\Users\obj\Debug\netcoreapp2.0\Users.AssemblyInfoInputs.cache
+C:\Users\arthur.li\Source\repos\Users\Users\obj\Debug\netcoreapp2.0\Users.AssemblyInfo.cs
+C:\Users\arthur.li\Source\repos\Users\Users\obj\Debug\netcoreapp2.0\Users.dll
+C:\Users\arthur.li\Source\repos\Users\Users\obj\Debug\netcoreapp2.0\Users.pdb
